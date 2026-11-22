@@ -1,0 +1,2 @@
+sequence_id	strand	frame	start	end	length_nt	length_aa	dna
+sample_gene_like_sequence Synthetic teaching sequence for pipeline demonstration	+	1	1	39	36	12	ATGGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCT
